@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/salida"
+        android:enabled="true"
+        android:icon="@drawable/ic_salida"
+        android:title="salidas"/>
+    <item
+        android:id="@+id/entrada"
+        android:enabled="true"
+        android:icon="@drawable/ic_entrada"
+        android:title="entradas"/>
+</menu>

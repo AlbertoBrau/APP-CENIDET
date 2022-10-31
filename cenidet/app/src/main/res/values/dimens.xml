@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_menu_icon">20dp</dimen>
+    <dimen name="common_menu_icon_variant">25dp</dimen>
+    <dimen name="common_padding_default">16dp</dimen>
+</resources>
